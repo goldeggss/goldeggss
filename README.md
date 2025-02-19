@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+这是一个摆烂三年半考研失败的双非计算机专业学生的自白，我希望从现在开始做出一些改变，这是我对自己青春和生命的补救，希望这一切都不算太晚
 <!--
 **goldeggss/goldeggss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
